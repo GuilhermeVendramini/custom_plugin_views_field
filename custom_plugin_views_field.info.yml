@@ -1,0 +1,5 @@
+name: Custom Plugin Views Field
+type: module
+description: Provides a custom field to use in Views (Similar to global fields), created via Plugin
+core: 8.x
+package: Custom
